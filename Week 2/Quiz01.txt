@@ -1,0 +1,28 @@
+
+1. - Binary threshold.
+   - Logistic sigmoid.
+
+X = 2. - It requires real numbers.
+
+X = 3. 2 * raiz(2).
+
+4. False.
+
+5. True.
+
+X = 6. - Make the third value of each input vector be the opposite of the first value (i.e. use 1 if the first value is 0 and 0 if the first value is 1).
+       - Make the third value of each input vector be the same as the target value for that input vector.
+
+7. Feed-forward.
+
+8. Brian.
+
+==========================================================================================================================================================
+
+2. - It requires only one integer per training case.
+   - It requires one bit per training case.
+
+3. raiz(2).
+
+6. - Make the third value of each input vector be the same as the target value for that input vector.
+   - Make the third value be 1 for one of the four input vectors and 0 for the other three.
