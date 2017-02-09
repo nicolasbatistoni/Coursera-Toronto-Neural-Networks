@@ -1,0 +1,17 @@
+
+1. False.
+
+2. - Train on a mix of old and new data.
+   - Prevent the system from changing the weights too much.
+
+3. - It allows us to learn from vast amounts of unlabelled data.
+   - It can be used to learn features that may help with supervised tasks.
+
+4. - Recognizing badly written characters.
+   - Recognizing fragments of words in a pre-processed sound wave.
+
+5. The number of synapes in a human brain.
+
+6. - If the visual input is sent to the auditory cortex of a newborn ferret, the "auditory" cells learn to do vision.
+   - The fine-scale anatomy of the cortex looks pretty much the same all over.
+   - If part of the cortex is removed early in life, the function that it would have served often gets relocated to another part of cortex.
